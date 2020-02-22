@@ -1,0 +1,11 @@
+.class1 {
+    display: flex;
+    justify-content: center;
+    align-items: left;
+}
+
+header {
+    width: 100%;
+    height: 80px;
+    background: grey;
+}
